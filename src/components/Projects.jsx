@@ -41,7 +41,7 @@ const Projects = () => {
     {
       id: 6,
       src: myportfolio,
-      demoLink: "https://myportfolio.netlify.app/",
+      demoLink: "https://myportfolio0409.netlify.app/",
       codeLink: "https://github.com/HimanshiChainani/my-portfolio",
     },
   ];
