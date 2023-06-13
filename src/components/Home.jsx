@@ -15,8 +15,7 @@ const Home = () => {
             I'm proficient in Machine Learning and a Frontent-Developer
           </h2>
           <p className="text-gray-400 py-4 max-w-md">
-          I have gained expertise through multiple Data Science, ML and DL projects. Currently expanding skills in the MERN stack.
-          Additionally, I bring creative abilities as a Graphic Designer, enabling me to deliver comprehensive solutions with a holistic approach.
+          I have gained expertise through multiple Data Science, Machine Learning, and Deep Learning projects. Currently expanding skills in the MERN stack. Additionally, I have a strong foundation in data structures and algorithms, enabling me to deliver comprehensive solutions with a holistic approach.
           </p>
           <div>
             <Link
